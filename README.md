@@ -1,4 +1,4 @@
-# loja online - campanha de natal
+# loja online - campanha de ano novo
 
 
 ## contato
