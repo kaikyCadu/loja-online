@@ -1,4 +1,4 @@
-# loja online - campanha de black friday
+# loja online - campanha de natal
 
 
 ## contato
